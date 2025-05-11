@@ -5,7 +5,7 @@
 # 💫 About Me:
 👨‍💻 Full-stack web & mobile developer<br>🌐 Specializing in real-time applications<br>🚀 Proficient in React.js, React Native, Node.js<br>📱 Passionate about crafting seamless user experiences<br>🔧 Always learning and exploring new technologies<br>📫 Let's collaborate and build something amazing!
 
-# StackMasterAruna
+# Aruna2206
 
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/StackMasterAruna/StackMasterAruna/actions/workflows/main.yml)
